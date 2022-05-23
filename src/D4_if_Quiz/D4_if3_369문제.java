@@ -15,7 +15,7 @@ import java.util.Random;
  * 		 7	 : 7
  */
 
-public class D4_if_Quiz {
+public class D4_if3_369문제 {
 
 	public static void main(String[] args) {
 		Random ran = new Random();
